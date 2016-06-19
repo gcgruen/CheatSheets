@@ -10,3 +10,6 @@ Next on is the attempt to create an overview when - given a certain problem - wh
 
 ## There must be a better solution for...
 - getting these cheatsheets up here. I'm writing them in Google docs. Maybe there's a nice & easy (and free) way to integrate them?
+
+## Useful existing resources:
+* [**markdown-Cheatsheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
