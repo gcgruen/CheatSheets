@@ -1,6 +1,8 @@
 # CheatSheets
 Cheat sheet collection I made while learning programming. No warranty given for correctness or completeness. Feel free to get in touch if you feel sth is wrong or sth important is missing
 
+* **Pandas**: <iframe src="https://docs.google.com/document/d/132xwnKOXgwkpGglbY8J44CCp0QHsaqNkAG9RTGDMQsA/pub?embedded=true"></iframe>
+
 ## When to use what?
 Next on is the attempt to create an overview when - given a certain problem - what of all these newly learned things (pandas, list comprehensions, regular expressions) is best to use to get to a result...
 
