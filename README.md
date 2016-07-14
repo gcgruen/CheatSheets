@@ -1,9 +1,24 @@
 # CheatSheets
 Cheat sheet collection I made while learning programming. No warranty given for correctness or completeness. Feel free to get in touch if you feel sth is wrong or sth important is missing
 
+*in order of last updated*
+
+* [**Python**](https://docs.google.com/document/d/1rv_-MRK_ZrjOEs1LGT7QkLy6M9jfmiBc_2QcHkyaejE/pub)
+* [**GitHub**](https://docs.google.com/document/d/1CQhNihzMZQpxwiCogqpEN2YLTJtsJKr9oNdvshwISa8/pub)
 * [**Pandas**](https://docs.google.com/document/d/132xwnKOXgwkpGglbY8J44CCp0QHsaqNkAG9RTGDMQsA/pub)
+* [**Algorithms**](https://docs.google.com/document/d/1-j6v45QeNnhF79prr-YkNMpI2DMHFhQfOHO5Aazp52g/edit)
+* [**APIs**](https://docs.google.com/document/d/1FUhSxRpdc5MBpRcmSnHseZlaqZpWxhOTisZ7BBsYmiQ/pub)
+* [**SQL**](https://docs.google.com/document/d/1BiJIcuf5XBtvwER-M-vTjmPu5jZN-qC9l7f_rf00-es/edit)
+* [**Scraping Websites**](https://docs.google.com/document/d/1CR-b8g4m1VSKVsU_o7SlwVWzuKi5AcHTjfpPyXsgFME/pub)
+* [**Cron job / Server**](https://docs.google.com/document/d/1jvMmCzNoFzV215sg0o-Tpfu8PoQTY--EogGLqMB2pnk/pub)
+* [**Install/Import**](https://docs.google.com/document/d/1v4xAXfjRwtoNkxFPdC2uKa-BJamHa2DcGUXoyUBfisg/pub)
+* [**Command Line**](https://docs.google.com/document/d/1lU0w_yBD-wzq-QtBKRr1BYCvyPXQ1y8jIxTKsQiN2NU/pub)
+* **Text Analysis**
+* **Twitter API**
+* **WebApp with Flask**
 * **regular expression**
-* tbc
+* **list comprehension**
+* **Databases**
 
 ## When to use what?
 Next on is the attempt to create an overview when - given a certain problem - what of all these newly learned things (pandas, list comprehensions, regular expressions) is best to use to get to a result...
