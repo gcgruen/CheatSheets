@@ -3,8 +3,8 @@ Cheat sheet collection I made while learning programming. No warranty given for 
 
 *in order of last updated*
 
-* [**Machine Learning & Decision Trees](https://docs.google.com/document/d/1DeAGis8uOCZz0vuxvSmHG5ryytWnXppn3w8DmTovwJs/pub)
-* [**Prediction & Regression](https://docs.google.com/document/d/17gVxqwKXuDcA4Uf_LPLCbmYU42wJr1wuqaOGgfp_gQM/pub)
+* [**Machine Learning & Decision Trees**](https://docs.google.com/document/d/1DeAGis8uOCZz0vuxvSmHG5ryytWnXppn3w8DmTovwJs/pub)
+* [**Prediction & Regression**](https://docs.google.com/document/d/17gVxqwKXuDcA4Uf_LPLCbmYU42wJr1wuqaOGgfp_gQM/pub)
 * [**Statistics**](https://docs.google.com/document/d/12ZPekBM_-m7SvnV5Ks4LAg3h6wOYpO2zmR1Mr4SbVtY/pub)
 * [**Python**](https://docs.google.com/document/d/1rv_-MRK_ZrjOEs1LGT7QkLy6M9jfmiBc_2QcHkyaejE/pub)
 * [**GitHub**](https://docs.google.com/document/d/1CQhNihzMZQpxwiCogqpEN2YLTJtsJKr9oNdvshwISa8/pub)
